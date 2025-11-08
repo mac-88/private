@@ -1,17 +1,13 @@
 http://cname.pingtx.me/c/
-00:1A:79:7E:D9:79
 00:1A:79:E1:8B:EA
 
 http://dua-doa.me/c/
 00:1A:79:2D:19:16
 00:1A:79:36:30:66
 00:1A:79:7C:E5:42
-00:1A:79:C0:CC:82
 00:1A:79:C4:05:CB
 00:1A:79:FB:63:3A
-00:1A:79:FB:63:46
 00:1A:79:FB:63:4C
-00:1A:79:FB:63:50
 00:1A:79:FB:63:54
 
 http://exceltion.xyz/c/
@@ -30,7 +26,6 @@ http://globalgnet.live/c/
 
 http://honeywatch.net/c/
 00:1A:79:18:12:0F
-00:1A:79:9C:9F:80
 
 http://iptvplatinum.net/c/
 00:1A:79:0C:A2:1C
@@ -47,24 +42,39 @@ http://line.300spartiatis.com/c/
 
 http://line.darktv-pro.me/c/
 00:1A:79:80:D9:BE
-00:1A:79:80:D9:C6
 00:1A:79:B4:B4:A2
 
 http://line.iptveros.com/c/
 00:1A:79:12:57:93
 
+http://line.iptvhunt.com/c/
+00:1A:79:A9:EE:0E
+00:1A:79:B5:44:F3
+00:1A:79:CE:0D:E3
+
 http://line.kahr4a.com/c/
 00:1A:79:1E:08:89
-00:1A:79:1E:08:8A
 00:1A:79:B6:C4:CA
 
 http://line.my-tv.cc/c/
 00:1A:79:5D:29:48
+00:1A:79:FB:50:06
 00:1A:79:FB:50:77
+
+http://line.myunityhost.com/c/
+00:1A:79:B6:C5:3A
+00:1A:79:B6:C5:45
+00:1A:79:B6:C5:47
+00:1A:79:B6:C5:4A
+00:1A:79:B6:C5:8E
+00:1A:79:B6:C5:97
+00:1A:79:B6:C5:C9
 
 http://line.stayconnected.pro/c/
 00:1A:79:B5:6A:7D
-00:1A:79:D3:3D:C2
+
+http://line.ult-ott.com/c/
+00:1A:79:CF:82:95
 
 http://mag.rs6ott.com/c/
 00:1A:79:7B:AD:80
@@ -78,7 +88,6 @@ http://mag.yo-ott.com/c/
 00:1A:79:D3:3E:9C
 
 http://omni-premium.shop/c/
-00:1A:79:B4:6D:7B
 00:1A:79:B6:16:B7
 00:1A:79:CB:5F:A2
 
@@ -92,24 +101,32 @@ http://telle.cc/c/
 00:1A:79:7A:CD:3E
 
 http://tr.simotvgold.com/c/
-00:1A:79:B4:B6:62
 00:1A:79:CA:F2:86
 
 http://trex.8kott.xyz/c/
+00:1A:79:82:1F:29
+00:1A:79:B6:47:A8
 00:1A:79:C7:29:B2
 
 http://trx.bouchds.com/c/
 00:1A:79:F5:43:7F
 
 http://tv-centreduquebec.info/c/
-00:1A:79:3F:65:51
 00:1A:79:C2:A0:E5
 
 http://unknown.protv.cc/c/
 00:1A:79:C8:48:A0
 00:1A:79:F5:15:8A
 
-http://vpn.full-keys4k.xyz/c/
-00:1A:79:32:30:88
-00:1A:79:B8:44:65
-00:1A:79:D5:11:87
+http://utrecht030ovc.xyz/c/
+00:1A:79:17:1D:DF
+00:1A:79:66:33:0A
+00:1A:79:66:33:37
+00:1A:79:B5:9D:B4
+00:1A:79:B5:9D:BC
+00:1A:79:B5:9F:BD
+00:1A:79:B5:9F:C4
+00:1A:79:B5:9F:CA
+00:1A:79:B6:19:96
+00:1A:79:BB:E3:85
+00:1A:79:BB:E3:92
