@@ -5,35 +5,22 @@ http://dua-doa.me/c/
 00:1A:79:2D:19:16
 00:1A:79:36:30:66
 00:1A:79:7C:E5:42
-00:1A:79:C4:05:CB
 00:1A:79:FB:63:3A
 00:1A:79:FB:63:4C
-00:1A:79:FB:63:54
 
 http://exceltion.xyz/c/
-00:1A:79:06:91:52
-00:1A:79:19:43:84
-00:1A:79:C0:05:B2
 00:1A:79:C6:A4:31
 
 http://full-tv100.com/c/
-00:1A:79:17:A0:01
 00:1A:79:B6:51:B9
-
-http://globalgnet.live/c/
-00:1A:79:7E:9B:7F
 
 http://honeywatch.net/c/
 00:1A:79:18:12:0F
-
-http://iptvpro.stream/c/
-00:1A:79:50:7C:DE
 
 http://klaratv.com/c/
 00:1A:79:33:F4:16
 
 http://line.300spartiatis.com/c/
-00:1A:79:8E:B5:5B
 00:1A:79:B3:D1:95
 
 http://line.darktv-pro.me/c/
@@ -45,19 +32,17 @@ http://line.iptveros.com/c/
 
 http://line.iptvhunt.com/c/
 00:1A:79:A9:EE:0E
-
-http://line.kahr4a.com/c/
-00:1A:79:B6:C4:CA
+00:1A:79:CE:0D:E3
 
 http://line.my-tv.cc/c/
 00:1A:79:5D:29:48
-00:1A:79:FB:50:06
+00:1A:79:FB:50:77
 
 http://line.myunityhost.com/c/
-00:1A:79:B6:C5:3A
 00:1A:79:B6:C5:45
 00:1A:79:B6:C5:47
 00:1A:79:B6:C5:4A
+00:1A:79:B6:C5:8E
 00:1A:79:B6:C5:97
 
 http://line.stayconnected.pro/c/
@@ -66,34 +51,26 @@ http://line.stayconnected.pro/c/
 http://line.ult-ott.com/c/
 00:1A:79:CF:82:95
 
+http://line.wishiptv.vip/c/
+00:1A:79:FB:11:15
+00:1A:79:FB:11:21
+
+http://madboxtv.com/c/
+00:1A:79:5E:8F:76
+00:1A:79:B7:68:5C
+
 http://mag.rs6ott.com/c/
 00:1A:79:7B:AD:80
-00:1A:79:84:F2:65
-
-http://mag.senpay25.com/c/
-00:1A:79:C0:92:4C
 
 http://mag.yo-ott.com/c/
 00:1A:79:BB:EE:9A
-00:1A:79:D3:3E:9C
 
 http://omni-premium.shop/c/
+00:1A:79:B6:16:B7
 00:1A:79:CB:5F:A2
-
-http://protv.fun:80/c/
-00:1A:79:1C:03:8D
 
 http://semihomecam.online/c/
 00:1A:79:B6:25:11
-
-http://sharktv.alphatx.me/c/
-00:1A:79:06:3F:44
-00:1A:79:B5:45:1C
-00:1A:79:B5:45:75
-00:1A:79:B6:16:B7
-00:1A:79:B6:47:A8
-00:1A:79:B6:47:AA
-00:1A:79:CD:94:5B
 
 http://telle.cc/c/
 00:1A:79:7A:CD:3E
@@ -103,29 +80,15 @@ http://tr.simotvgold.com/c/
 
 http://trex.8kott.xyz/c/
 00:1A:79:82:1F:29
+00:1A:79:B6:47:A8
 00:1A:79:C7:29:B2
-
-http://trx.bouchds.com/c/
-00:1A:79:F5:43:7F
 
 http://unknown.protv.cc/c/
 00:1A:79:C8:48:A0
 00:1A:79:F5:15:8A
 
 http://utrecht030ovc.xyz/c/
-00:1A:79:17:12:2A
-00:1A:79:31:63:64
 00:1A:79:66:33:0A
 00:1A:79:66:33:37
-00:1A:79:B0:38:6C
-00:1A:79:B5:0F:03
-00:1A:79:B5:9D:B4
-00:1A:79:B5:9D:BC
 00:1A:79:B5:9F:BD
-00:1A:79:B5:9F:C4
-00:1A:79:B5:9F:CA
 00:1A:79:B6:19:96
-00:1A:79:B6:CA:E7
-00:1A:79:B6:CA:FF
-00:1A:79:BB:E3:85
-00:1A:79:BB:E3:92
