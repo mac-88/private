@@ -1,12 +1,15 @@
-http://cname.pingtx.me/c/
-00:1A:79:B5:9D:B4
-00:1A:79:B5:9D:BC
+http://alpha-2ott.me/c/
+00:1A:79:81:A1:C3
+00:1A:79:82:7F:3A
+00:1A:79:84:0D:FC
+00:1A:79:A1:0D:F1
+00:1A:79:B6:00:57
+00:1A:79:CE:C3:29
 
 http://dua-doa.me/c/
 00:1A:79:2D:19:16
 00:1A:79:36:30:66
 00:1A:79:7C:E5:42
-00:1A:79:FB:63:3A
 00:1A:79:FB:63:4C
 
 http://exceltion.xyz/c/
@@ -17,22 +20,18 @@ http://full-tv100.com/c/
 
 http://honeywatch.net/c/
 00:1A:79:20:5E:27
-00:1A:79:73:CE:9F
 00:1A:79:B6:C6:97
 00:1A:79:BB:8A:EB
 
 http://klaratv.com/c/
 00:1A:79:00:2A:54
-00:1A:79:00:2A:75
 
 http://line.300spartiatis.com/c/
 00:1A:79:BC:76:41
 
 http://line.darktv-pro.me/c/
 00:1A:79:80:D9:BE
-
-http://line.iptveros.com/c/
-00:1A:79:12:57:93
+00:1A:79:B4:B4:A2
 
 http://line.iptvhunt.com/c/
 00:1A:79:BF:D8:C8
@@ -40,6 +39,11 @@ http://line.iptvhunt.com/c/
 http://line.my-tv.cc/c/
 00:1A:79:1C:03:EA
 00:1A:79:D3:26:90
+
+http://line.myox.me/c/
+00:1A:79:81:3B:98
+00:1A:79:B4:B6:CE
+00:1A:79:B5:19:01
 
 http://line.myunityhost.com/c/
 00:1A:79:B6:C5:45
@@ -53,13 +57,13 @@ http://line.stayconnected.pro/c/
 
 http://line.ult-ott.com/c/
 00:1A:79:84:15:72
-00:1A:79:B4:B4:24
 
 http://line.wishiptv.vip/c/
 00:1A:79:FB:11:15
+00:1A:79:FB:11:21
 
-http://mag.rs6ott.com/c/
-00:1A:79:17:0F:57
+http://madboxtv.com/c/
+00:1A:79:AC:DD:5C
 
 http://mag.yo-ott.com/c/
 00:1A:79:BB:EE:9A
@@ -68,11 +72,17 @@ http://omni-premium.shop/c/
 00:1A:79:B6:16:B7
 00:1A:79:CB:5F:A2
 
+http://prixon.abcott.me/c/
+00:1A:79:B4:EE:39
+00:1A:79:B4:F0:43
+00:1A:79:B6:22:D3
+00:1A:79:B6:C4:C0
+00:1A:79:B6:C4:C3
+00:1A:79:B6:C4:CA
+00:1A:79:FB:11:1F
+
 http://semihomecam.online/c/
 00:1A:79:B6:25:11
-
-http://telle.cc/c/
-00:1A:79:7A:CD:3E
 
 http://tr.simotvgold.com/c/
 00:1A:79:FB:07:95
@@ -81,11 +91,8 @@ http://tr.simotvgold.com/c/
 http://trex.8kott.xyz/c/
 00:1A:79:82:15:44
 
-http://unknown.protv.cc/c/
-00:1A:79:24:78:AB
-00:1A:79:B5:29:BB
-
 http://utrecht030ovc.xyz/c/
 00:1A:79:66:33:0A
 00:1A:79:66:33:37
+00:1A:79:B5:9F:BD
 00:1A:79:B6:19:96
